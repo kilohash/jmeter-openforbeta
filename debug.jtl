@@ -1,0 +1,100 @@
+1439636289891,814,1. Login,200,OK,JMeter Users 1-1,text,true,23687,3,3,351
+1439636289945,1819,1. Login,200,OK,JMeter Users 1-2,text,true,23687,4,4,356
+1439636292116,163,2. Edit account,Non HTTP response code: java.io.FileNotFoundException,Non HTTP response message: ..\resources\1_Skyscraper.jpg (The system cannot find the path specified),JMeter Users 1-1,text,false,2565,5,5,0
+1439636291509,830,1. Login,200,OK,JMeter Users 1-3,text,true,23687,5,5,364
+1439636292134,825,1. Login,200,OK,JMeter Users 1-4,text,true,23687,5,5,356
+1439636292811,162,2. Edit account,Non HTTP response code: java.io.FileNotFoundException,Non HTTP response message: ..\resources\2_Knitting Balls.jpg (The system cannot find the path specified),JMeter Users 1-2,text,false,2569,6,6,0
+1439636293973,159,2. Edit account,Non HTTP response code: java.io.FileNotFoundException,Non HTTP response message: ..\resources\3_Forest.jpg (The system cannot find the path specified),JMeter Users 1-3,text,false,2561,7,7,0
+1439636294024,322,3. Resend Email Confirmation,403,Forbidden,JMeter Users 1-2,text,false,202,7,7,322
+1439636294173,317,3. Resend Email Confirmation,403,Forbidden,JMeter Users 1-1,text,false,202,7,7,317
+1439636294036,812,1. Login,200,OK,JMeter Users 1-5,text,true,23687,7,7,351
+1439636295127,164,2. Edit account,Non HTTP response code: java.io.FileNotFoundException,Non HTTP response message: ..\resources\4_Structure.jpg (The system cannot find the path specified),JMeter Users 1-4,text,false,2564,8,8,0
+1439636294970,823,1. Login,200,OK,JMeter Users 1-7,text,true,23687,8,8,355
+1439636295145,822,1. Login,200,OK,JMeter Users 1-6,text,true,23687,9,9,356
+1439636295879,352,4. Sending messages,200,OK,JMeter Users 1-2,text,true,324,9,9,352
+1439636296008,318,3. Resend Email Confirmation,403,Forbidden,JMeter Users 1-3,text,false,202,9,9,318
+1439636296187,164,2. Edit account,Non HTTP response code: java.io.FileNotFoundException,Non HTTP response message: ..\resources\6_Bridge.jpg (The system cannot find the path specified),JMeter Users 1-5,text,false,2561,9,9,0
+1439636295383,1350,4. Sending messages,200,OK,JMeter Users 1-1,text,true,324,9,9,1350
+1439636296642,319,3. Resend Email Confirmation,403,Forbidden,JMeter Users 1-4,text,false,202,9,9,319
+1439636295510,1822,1. Login,200,OK,JMeter Users 1-8,text,true,23687,10,10,1357
+1439636297430,161,2. Edit account,Non HTTP response code: java.io.FileNotFoundException,Non HTTP response message: ..\resources\1_Skyscraper.jpg (The system cannot find the path specified),JMeter Users 1-6,text,false,2565,10,10,0
+1439636297994,161,2. Edit account,Non HTTP response code: java.io.FileNotFoundException,Non HTTP response message: ..\resources\2_Knitting Balls.jpg (The system cannot find the path specified),JMeter Users 1-7,text,false,2569,10,10,0
+1439636297544,816,1. Login,200,OK,JMeter Users 1-9,text,true,23687,10,10,348
+1439636298125,443,5. Browsing websites,200,OK,JMeter Users 1-2,text,true,19472,10,10,442
+1439636298509,436,5. Browsing websites,200,OK,JMeter Users 1-1,text,true,19527,10,10,435
+1439636298826,162,2. Edit account,Non HTTP response code: java.io.FileNotFoundException,Non HTTP response message: ..\resources\3_Forest.jpg (The system cannot find the path specified),JMeter Users 1-8,text,false,2561,10,10,0
+1439636298683,324,3. Resend Email Confirmation,403,Forbidden,JMeter Users 1-5,text,false,202,10,10,324
+1439636298471,834,1. Login,200,OK,JMeter Users 1-10,text,true,23592,10,10,354
+1439636297900,1408,4. Sending messages,200,OK,JMeter Users 1-4,text,true,324,10,10,1408
+1439636299216,349,6. Adding website to Favorites,200,OK,JMeter Users 1-1,text,true,298,10,10,349
+1439636299287,323,3. Resend Email Confirmation,403,Forbidden,JMeter Users 1-7,text,false,202,10,10,323
+1439636299499,162,2. Edit account,Non HTTP response code: java.io.FileNotFoundException,Non HTTP response message: ..\resources\4_Structure.jpg (The system cannot find the path specified),JMeter Users 1-9,text,false,2564,10,10,0
+1439636299467,328,3. Resend Email Confirmation,403,Forbidden,JMeter Users 1-6,text,false,202,10,10,328
+1439636298572,1352,4. Sending messages,200,OK,JMeter Users 1-3,text,true,324,10,10,1352
+1439636299897,348,4. Sending messages,200,OK,JMeter Users 1-5,text,true,324,10,10,348
+1439636300413,318,3. Resend Email Confirmation,403,Forbidden,JMeter Users 1-9,text,false,202,10,10,318
+1439636300475,317,3. Resend Email Confirmation,403,Forbidden,JMeter Users 1-8,text,false,202,10,10,317
+1439636300533,354,6. Adding website to Favorites,200,OK,JMeter Users 1-2,text,true,298,10,10,354
+1439636300983,355,7. Deleting website from Favorites,200,OK,JMeter Users 1-1,text,true,298,10,10,355
+1439636301070,445,5. Browsing websites,200,OK,JMeter Users 1-3,text,true,18459,10,10,444
+1439636301352,163,2. Edit account,Non HTTP response code: java.io.FileNotFoundException,Non HTTP response message: ..\resources\6_Bridge.jpg (The system cannot find the path specified),JMeter Users 1-10,text,false,2561,10,10,0
+1439636301382,351,4. Sending messages,200,OK,JMeter Users 1-6,text,true,324,10,10,351
+1439636301525,437,5. Browsing websites,200,OK,JMeter Users 1-4,text,true,18717,10,10,437
+1439636301666,349,4. Sending messages,200,OK,JMeter Users 1-9,text,true,324,10,10,349
+1439636301856,434,5. Browsing websites,200,OK,JMeter Users 1-5,text,true,18720,10,10,433
+1439636302195,352,4. Sending messages,200,OK,JMeter Users 1-7,text,true,324,10,10,352
+1439636302410,360,4. Sending messages,200,OK,JMeter Users 1-8,text,true,324,10,10,360
+1439636302460,323,3. Resend Email Confirmation,403,Forbidden,JMeter Users 1-10,text,false,202,10,10,323
+1439636302941,350,8. Vote yes,200,OK,JMeter Users 1-1,text,true,318,10,10,350
+1439636302940,364,6. Adding website to Favorites,200,OK,JMeter Users 1-4,text,true,298,10,10,364
+1439636303088,354,7. Deleting website from Favorites,200,OK,JMeter Users 1-2,text,true,298,10,10,354
+1439636303175,351,6. Adding website to Favorites,200,OK,JMeter Users 1-3,text,true,298,10,10,351
+1439636303307,445,5. Browsing websites,200,OK,JMeter Users 1-7,text,true,18718,10,10,444
+1439636303415,447,5. Browsing websites,200,OK,JMeter Users 1-8,text,true,19464,10,10,446
+1439636303637,354,6. Adding website to Favorites,200,OK,JMeter Users 1-5,text,true,298,10,10,354
+1439636303759,354,4. Sending messages,200,OK,JMeter Users 1-10,text,true,324,10,10,353
+1439636303894,441,5. Browsing websites,200,OK,JMeter Users 1-9,text,true,19761,10,10,440
+1439636302972,1435,5. Browsing websites,200,OK,JMeter Users 1-6,text,true,19347,10,10,1434
+1439636304747,348,6. Adding website to Favorites,200,OK,JMeter Users 1-7,text,true,298,10,10,348
+1439636305081,349,8. Vote yes,200,OK,JMeter Users 1-2,text,true,318,10,10,349
+1439636305196,348,7. Deleting website from Favorites,200,OK,JMeter Users 1-4,text,true,298,10,10,348
+1439636305283,353,6. Adding website to Favorites,200,OK,JMeter Users 1-8,text,true,298,10,10,353
+1439636305246,440,5. Browsing websites,200,OK,JMeter Users 1-10,text,true,18941,10,10,439
+1439636305495,356,9. Vote no,200,OK,JMeter Users 1-1,text,true,318,10,10,355
+1439636305660,358,7. Deleting website from Favorites,200,OK,JMeter Users 1-5,text,true,298,10,10,358
+1439636306076,352,6. Adding website to Favorites,200,OK,JMeter Users 1-9,text,true,298,10,10,352
+1439636305310,1354,7. Deleting website from Favorites,200,OK,JMeter Users 1-3,text,true,298,10,10,1354
+1439636306582,349,7. Deleting website from Favorites,200,OK,JMeter Users 1-8,text,true,298,10,10,349
+1439636306728,353,8. Vote yes,200,OK,JMeter Users 1-5,text,true,318,10,10,353
+1439636306860,350,6. Adding website to Favorites,200,OK,JMeter Users 1-6,text,true,298,10,10,350
+1439636307107,354,6. Adding website to Favorites,200,OK,JMeter Users 1-10,text,true,298,10,10,354
+1439636307157,351,8. Vote yes,200,OK,JMeter Users 1-3,text,true,318,10,10,351
+1439636307338,354,7. Deleting website from Favorites,200,OK,JMeter Users 1-7,text,true,298,10,10,354
+1439636307399,350,8. Vote yes,200,OK,JMeter Users 1-4,text,true,318,10,10,350
+1439636307685,354,9. Vote no,200,OK,JMeter Users 1-2,text,true,318,10,10,354
+1439636307736,356,7. Deleting website from Favorites,200,OK,JMeter Users 1-9,text,true,298,10,10,356
+1439636307756,349,7. Deleting website from Favorites,200,OK,JMeter Users 1-6,text,true,298,10,10,349
+1439636307851,354,9. Vote no,200,OK,JMeter Users 1-5,text,true,318,10,10,353
+1439636308225,358,10. Logout,200,OK,JMeter Users 1-1,text,true,677,10,10,358
+1439636308525,355,8. Vote yes,200,OK,JMeter Users 1-9,text,true,318,9,9,355
+1439636308926,349,8. Vote yes,200,OK,JMeter Users 1-8,text,true,318,9,9,349
+1439636309417,350,8. Vote yes,200,OK,JMeter Users 1-6,text,true,318,9,9,350
+1439636309489,351,9. Vote no,200,OK,JMeter Users 1-3,text,true,318,9,9,351
+1439636309535,352,7. Deleting website from Favorites,200,OK,JMeter Users 1-10,text,true,298,9,9,352
+1439636309675,356,9. Vote no,200,OK,JMeter Users 1-4,text,true,318,9,9,356
+1439636309672,365,10. Logout,200,OK,JMeter Users 1-5,text,true,677,9,9,365
+1439636309827,364,10. Logout,200,OK,JMeter Users 1-2,text,true,677,8,8,363
+1439636310380,353,8. Vote yes,200,OK,JMeter Users 1-7,text,true,318,7,7,353
+1439636310479,358,9. Vote no,200,OK,JMeter Users 1-8,text,true,318,7,7,358
+1439636310848,355,8. Vote yes,200,OK,JMeter Users 1-10,text,true,318,7,7,355
+1439636311192,358,9. Vote no,200,OK,JMeter Users 1-9,text,true,318,7,7,358
+1439636311691,362,10. Logout,200,OK,JMeter Users 1-3,text,true,677,7,7,362
+1439636311717,354,9. Vote no,200,OK,JMeter Users 1-6,text,true,318,6,6,354
+1439636311847,361,10. Logout,200,OK,JMeter Users 1-4,text,true,677,6,6,361
+1439636312272,363,10. Logout,200,OK,JMeter Users 1-8,text,true,677,5,5,363
+1439636312417,361,10. Logout,200,OK,JMeter Users 1-9,text,true,677,4,4,361
+1439636312704,351,9. Vote no,200,OK,JMeter Users 1-10,text,true,318,3,3,351
+1439636312818,349,9. Vote no,200,OK,JMeter Users 1-7,text,true,318,3,3,349
+1439636313793,363,10. Logout,200,OK,JMeter Users 1-10,text,true,677,3,3,363
+1439636313974,356,10. Logout,200,OK,JMeter Users 1-6,text,true,677,2,2,356
+1439636314156,361,10. Logout,200,OK,JMeter Users 1-7,text,true,677,1,1,361
